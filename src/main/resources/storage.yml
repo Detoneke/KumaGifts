@@ -1,0 +1,11 @@
+gifts:
+  example-gift:
+    material: PLAYER_SKULL
+# specify the head-value ONLY IF THE MATERIAL IS PLAYER-SKULL
+# Get the head value from https://minecraft-heads.com/
+    head-value: 'head-value'
+# You have 3 types of rewards: [MATERIAL] [CONSOLECMD]
+    rewards:
+      - '[MATERIAL] DIAMOND_BLOCK'
+      - '[CONSOLECMD] op %player_name%'
+    location: ''

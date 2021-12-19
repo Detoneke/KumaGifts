@@ -1,0 +1,6 @@
+name: KumaGifts
+version: '${project.version}'
+main: com.realxode.kumagifts.KumaGifts
+api-version: 1.17
+authors: [ RealXode ]
+description: Gifts plugin
